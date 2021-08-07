@@ -1,0 +1,5 @@
+You'll have to download it from the QEMU website. Sorry I can't supply it for you.
+I'm using version 6.0.0.
+
+Link:
+https://www.qemu.org/
